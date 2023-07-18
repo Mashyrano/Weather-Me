@@ -4,14 +4,9 @@
 if( have_posts() ):
 
   while( have_posts() ): the_post(); ?>
-    <article>
+ 
+    <h1>Hi</h1>
 
-      <h3><?php the_title(); ?></h3>
-
-      <div class="the-content"><?php the_content(); ?></div>
-      <hr>
-
-    </article>
   <?php endwhile;
 
 endif;
@@ -19,6 +14,3 @@ endif;
 ?>
 
 <?php get_footer(); ?>
-
-
- 

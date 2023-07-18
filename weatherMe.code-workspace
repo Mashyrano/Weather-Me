@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Weather-Me-1",
+			"path": "../../../../../../../../Users/nicollette/weatherMe/Weather-Me-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Weather-Me-1"
+	}
+}
