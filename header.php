@@ -36,6 +36,9 @@
   
   <?php wp_head(); ?>
 
+
+
+
   <!-- Font Awesome kit link -->
   <script src="https://kit.fontawesome.com/1ded87c941.js" crossorigin="anonymous"></script>
 

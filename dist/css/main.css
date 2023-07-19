@@ -1,0 +1,10 @@
+body {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#CFFDE1), to(#FED049));
+  background-image: linear-gradient(#CFFDE1, #FED049);
+  background-color: #CFFDE1;
+}
+
+h1 {
+  color: #FED049;
+  font-size: 10rem;
+}
