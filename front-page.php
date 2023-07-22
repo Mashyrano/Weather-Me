@@ -13,6 +13,7 @@ if( have_posts() ):
       <div class="row">
         <div class="col"><i class="fa-regular fa-sun fa-4x"></i></div>
         <div class="col">"Lorem ipsum dolor sit amet</div>
+        <a href="" class="single">Read more...</a>
       </div>
     </div>
 
@@ -22,6 +23,7 @@ if( have_posts() ):
       <div class="row">
         <div class="col"><i class="fa-regular fa-sun fa-4x"></i></div>
         <div class="col">lorem ipsum sunny set</div>
+        <a href="" class="single">Read more...</a>
       </div>
     </div>
 
@@ -31,6 +33,7 @@ if( have_posts() ):
       <div class="row">
         <div class="col"><i class="fa-regular fa-sun fa-4x"></i></div>
         <div class="col">lorem ipsum sunny set</div>
+        <a href="" class="single">Read more...</a>
       </div>
     </div>
 
@@ -40,6 +43,7 @@ if( have_posts() ):
       <div class="row">
         <div class="col"><i class="fa-regular fa-sun fa-4x"></i></div>
         <div class="col">lorem ipsum sunny set</div>
+        <a href="" class="single">Read more...</a>
       </div>
     </div>
   </div>
