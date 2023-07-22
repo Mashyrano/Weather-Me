@@ -48,4 +48,13 @@
  
 
 <main>
-
+<div class="container-fluid">
+  <header class="header">
+    <nav class="navbar navbar-expand">
+    <a href="#" class="nav-brand">Logo</a>
+      <ul class="navbar-nav ms-auto">
+        <div class="search">Search <i class="fa-solid fa-magnifying-glass"></i></div>
+      </ul>
+    </nav>
+  </header>
+</div>
